@@ -1,0 +1,22 @@
+[
+    {"name":"Bitcoin","symbol":"BTC","price":20680,"volume":59259981},
+    {"name":"Ethereum","symbol":"ETH","price":1538,"volume":37708109729},
+    {"name":"Thether","symbol":"USDT","price":1,"volume":59259981},
+    {"name":"BNB","symbol":"BNB","price":290,"volume":103912282},
+    {"name":"USD Coin","symbol":"USDC","price":0.9999,"volume":5293601977},
+    {"name":"XRP","symbol":"XRP","price":0.4657,"volume":1636993640},
+    {"name":"Binance USD","symbol":"BUSD","price":1,"volume":23292252481},
+    {"name":"Cardano","symbol":"ADA","price":0.4049,"volume":9390704561},
+    {"name":"Solona","symbol":"SOL","price":31,"volume":1602966599},
+    {"name":"Dogecoin","symbol":"DOGE","price":0.06,"volume":711470613},
+    {"name":"Polygon","symbol":"MATIC","price":0.9544,"volume":615374422},
+    {"name":"Polkadot","symbol":"DOT","price":6.56,"volume":441039695},
+    {"name":"Dai","symbol":"DAI","price":1,"volume":406556378},
+    {"name":"TRON","symbol":"TRX","price":0.06,"volume":350118453},
+    {"name":"Shiba Inu","symbol":"SHIB","price":0.000001,"volume":283764038},
+    {"name":"Avalanche","symbol":"AVAX","price":17.19,"volume":331},
+    {"name":"Wrapped Bitcoin","symbol":"WBTC","price":20588,"volume":250384844},
+    {"name":"Litecoin","symbol":"LTC","price":57019635228422,"volume":59259981},
+    {"name":"UNUS SED LEO","symbol":"LEO","price":4.21,"volume":3058659},
+    {"name":"Chainlink","symbol":"LINK","price":7.22,"volume":469675132}
+]

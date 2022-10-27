@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "dist", // where to put the compiled JS files
+        "target": "ES2020", // which level of JS support to target
+        "module": "CommonJS", // which system for the program AMD, UMD, System, CommonJS
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "moduleResolution": "Node"
+    },
+    "include": ["src/**/*"], // which files to compile
+    "exclude": ["node_modules", "src/resolvers/utils/test-utils/configureDb.ts", "src/resolvers/**/*.test.*"] // which files to skip
+}

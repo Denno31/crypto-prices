@@ -1,0 +1,8 @@
+[
+    {"firstName":"Dennis","lastName":"Anyonje","email":"dennis@gmail.com","password":"12345"},
+    {"firstName":"Jane","lastName":"Doe","email":"jane@gmail.com","password":"12345"},
+    {"firstName":"Mary","lastName":"jane","email":"mary@gmail.com","password":"12345"},
+    {"firstName":"Clement","lastName":"walker","email":"clement@gmail.com","password":"12345"},
+    {"firstName":"Chris","lastName":"Brown","email":"chris@gmail.com","password":"12345"},
+    {"firstName":"Vivian","lastName":"bridgit","email":"vivian@gmail.com","password":"12345"}
+]
