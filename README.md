@@ -14,4 +14,5 @@ This is the new API project for Flow.
 
 ## Tips to get up and running
 create a dabase with a name of your choice
-npm install npm run start:dev
+npm install 
+npm run start:dev
